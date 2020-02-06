@@ -31,3 +31,6 @@ theme_color: black
 
 # Build settings
 markdown: kramdown
+
+plugin:
+        - jekyll-seo-tag
