@@ -53,7 +53,10 @@ categories: documentation
 
 ### 20. Openvpn Client
 
-### 21. pgadmin4 <br/><br/>
+### 21. pgadmin4 
+
+### 22. Elixir
+<br/><br/>
 --------------------------------
 
 ## <span style="color:red;">2. Functional Helpers</span>
@@ -77,7 +80,10 @@ categories: documentation
 
 ### 9. Arandr
 
-### 10.fish shell
+### 10. fish shell
+
+### 11. rofi (and configuration)
+[configuration link](https://github.com/zarszz/dotfiles/)
 
 ---
 

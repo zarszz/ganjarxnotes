@@ -1,4 +1,4 @@
-I"-<h1 id="linux-post-installation-recommendation-software-and-configuration">Linux Post Installation Recommendation Software and Configuration</h1>
+I"Q<h1 id="linux-post-installation-recommendation-software-and-configuration">Linux Post Installation Recommendation Software and Configuration</h1>
 
 <hr />
 
@@ -15,7 +15,8 @@
 <h3 id="5-g-or-c-compiler">5. g++ or c++ compiler</h3>
 
 <h3 id="6-neovim-and-configuration">6. neovim (and configuration)</h3>
-<p>[</p>
+
+<p><a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
 
 <h3 id="7-visual-studio-code">7. Visual Studio Code</h3>
 
@@ -51,6 +52,7 @@
 <h2 id="2-functional-helpers"><span style="color:red;">2. Functional Helpers</span></h2>
 
 <h3 id="1-i3-gaps-and-configuration-window-manager">1. i3-gaps (and configuration) Window Manager</h3>
+<p><a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
 
 <h3 id="2-tmux-and-tmuxinator">2. tmux and tmuxinator</h3>
 
@@ -68,7 +70,10 @@
 
 <h3 id="9-arandr">9. Arandr</h3>
 
-<h3 id="10fish-shell">10.fish shell</h3>
+<h3 id="10-fish-shell">10. fish shell</h3>
+
+<h3 id="11-rofi-and-configuration">11. rofi (and configuration)</h3>
+<p><a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
 
 <hr />
 

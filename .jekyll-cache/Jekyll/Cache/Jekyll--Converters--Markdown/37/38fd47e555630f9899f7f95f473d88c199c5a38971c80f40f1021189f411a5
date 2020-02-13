@@ -1,0 +1,120 @@
+I"
+<h1 id="linux-post-installation-recommendation-software-and-configuration">Linux Post Installation Recommendation Software and Configuration</h1>
+
+<hr />
+
+<h2 id="1-development-tools"><span style="color: red;">1. Development Tools</span></h2>
+
+<p>..** Pyenv ( Python Environment)</p>
+
+<p>..** 2. RVM (Ruby Version Manager)</p>
+
+<p>..** 3. node.js</p>
+
+<p>..** 4. Golang</p>
+
+<p>..** 5. g++ or c++ compiler</p>
+
+<p>..** 6. neovim (and configuration)</p>
+
+<p><a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
+
+<p>..** 7. Visual Studio Code</p>
+
+<p>..** 8. Software Build essential</p>
+
+<p>..** 9. Docker &amp;&amp; Docker Compose</p>
+
+<p>..** 10. Postman</p>
+
+<p>..** 11. Sublime</p>
+
+<p>..** 12. dbeaver or DataGrip</p>
+
+<p>..** 13. PostgreSQL client</p>
+
+<p>..** 14. LAMPP STACK</p>
+
+<p>..** 15. VirtualBox</p>
+
+<p>..** 16. Electron</p>
+
+<p>..** 17. Python package manager(pip)</p>
+
+<p>..** 18. Alacritty and terminator</p>
+
+<p>..** 19. Java</p>
+
+<p>..** 20. Openvpn Client</p>
+
+<h2 id="-21-pgadmin4-">..** 21. pgadmin4 <br /><br /></h2>
+
+<h2 id="2-functional-helpers"><span style="color:red;">2. Functional Helpers</span></h2>
+
+<p>..** 1. i3-gaps (and configuration) Window Manager
+<a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
+
+<p>..** 2. tmux and tmuxinator</p>
+
+<p>..** 3. cava</p>
+
+<p>..** 4. scrot</p>
+
+<p>..** 5. pcmanFM</p>
+
+<p>..** 6. Bless Hex Editor</p>
+
+<p>..** 7. NetworkManager</p>
+
+<p>..** 8. Firefox (usually come with installation package)</p>
+
+<p>..** 9. Arandr</p>
+
+<p>..** 10. fish shell</p>
+
+<p>..** 11. rofi (and configuration)
+<a href="https://github.com/zarszz/dotfiles/">configuration link</a></p>
+
+<hr />
+
+<h2 id="3-office-and-writing"><span style="color:red;">3. Office and Writing</span></h2>
+
+<p>..** 1. Libre Office
+..** 2. Gnome Document Viewer</p>
+
+<hr />
+
+<h2 id="4-multimedia"><span style="color: red;">4. Multimedia</span></h2>
+
+<p>..** 1. ncmpcpp
+..** 2. mpv player</p>
+
+<hr />
+
+<h2 id="5-communication"><span style="color: red;">5. Communication</span></h2>
+<p>..** 1. Telegram
+..** 2. Slack
+..** 3. Discord</p>
+
+<hr />
+
+<h2 id="6-pentest-and-ctf-tools"><span style="color: red;">6. Pentest and CTF Tools</span></h2>
+<p>..** 1. Burp Suite
+..** 2. Nmap
+..** 3. Aircrack-ng
+..** 4. Bless Hex Editor
+..** 5. gdb-peda
+..** 6. Ghidra
+..** 7. John The Ripper
+..** 8. dirb
+..** 9. sqlmap
+..** 10. binwalk
+..** 11. stegsolve</p>
+
+<hr />
+
+<h2 id="7-free-application"><span style="color: red">7. !(Free) Application</span></h2>
+<p>..** 1. DataGrip
+..** 2. pyCharm
+..** 3. Packet Tracer</p>
+:ET
