@@ -1,0 +1,102 @@
+I"±<h1 id="linux-post-installation-recommendation-software-and-configuration">Linux Post Installation Recommendation Software and Configuration</h1>
+
+<hr />
+
+<h2 id="1-development-tools">1. Development Tools</h2>
+
+<h3 id="1-pyenv--python-environment">1. Pyenv ( Python Environment)</h3>
+
+<h3 id="2-rvm-ruby-version-manager">2. RVM (Ruby Version Manager)</h3>
+
+<h3 id="3-nodejs">3. node.js</h3>
+
+<h3 id="4-golang">4. Golang</h3>
+
+<h3 id="5-g-or-c-compiler">5. g++ or c++ compiler</h3>
+
+<h3 id="6-neovim-and-configuration">6. neovim (and configuration)</h3>
+
+<h3 id="7-visual-studio-code">7. Visual Studio Code</h3>
+
+<h3 id="8-software-build-essential">8. Software Build essential</h3>
+
+<h3 id="9-docker--docker-compose">9. Docker &amp;&amp; Docker Compose</h3>
+
+<h3 id="10-postman">10. Postman</h3>
+
+<h3 id="11-sublime">11. Sublime</h3>
+
+<h3 id="12-dbeaver-or-datagrip">12. dbeaver or DataGrip</h3>
+
+<h3 id="13-postgresql-client">13. PostgreSQL client</h3>
+
+<h3 id="14-lampp-stack">14. LAMPP STACK</h3>
+
+<h3 id="15-virtualbox">15. VirtualBox</h3>
+
+<h3 id="16-electron">16. Electron</h3>
+
+<h3 id="17-python-package-managerpip">17. Python package manager(pip)</h3>
+
+<h3 id="18-alacritty-and-terminator">18. Alacritty and terminator</h3>
+
+<h3 id="19-java">19. Java</h3>
+
+<h3 id="20-openvpn-client">20. Openvpn Client</h3>
+
+<h3 id="21-pgadmin4-">21. pgadmin4 <br /><br /></h3>
+<hr />
+
+<h2 id="2-functional-helpers"><span style="color:red;">2. Functional Helpers</span></h2>
+
+<h3 id="1-i3-gaps-and-configuration-window-manager">1. i3-gaps (and configuration) Window Manager</h3>
+
+<h3 id="2-tmux-and-tmuxinator">2. tmux and tmuxinator</h3>
+
+<h3 id="3-cava">3. cava</h3>
+
+<h3 id="4-scrot">4. scrot</h3>
+
+<h3 id="5-pcmanfm">5. pcmanFM</h3>
+
+<h3 id="6-bless-hex-editor">6. Bless Hex Editor</h3>
+
+<h3 id="7-networkmanager">7. NetworkManager</h3>
+
+<h3 id="8-firefox-usually-come-with-installation-package">8. Firefox (usually come with installation package)</h3>
+
+<h3 id="9-arandr">9. Arandr</h3>
+
+<h2 id="3-office-and-writing"><span style="color:red;">3. Office and Writing</span></h2>
+
+<h3 id="1-libre-office">1. Libre Office</h3>
+<h3 id="2-gnome-document-viewer">2. Gnome Document Viewer</h3>
+
+<h2 id="4-multimedia"><span style="color: red;">4. Multimedia</span></h2>
+
+<h3 id="1-ncmpcpp">1. ncmpcpp</h3>
+<h3 id="2-mpv-player">2. mpv player</h3>
+
+<h2 id="5-communication"><span style="color: red;">5. Communication</span></h2>
+<h3 id="1-telegram">1. Telegram</h3>
+<h3 id="2-slack">2. Slack</h3>
+<h3 id="3-discord">3. Discord</h3>
+
+<h2 id="6-pentest-and-ctf-tools"><span style="color: red;">6. Pentest and CTF Tools</span></h2>
+<h3 id="1-burp-suite">1. Burp Suite</h3>
+<h3 id="2-nmap">2. Nmap</h3>
+<h3 id="3-aircrack-ng">3. Aircrack-ng</h3>
+<h3 id="4-bless-hex-editor">4. Bless Hex Editor</h3>
+<h3 id="5-gdb-peda">5. gdb-peda</h3>
+<h3 id="6-ghidra">6. Ghidra</h3>
+<h3 id="7-john-the-ripper">7. John The Ripper</h3>
+<h3 id="8-dirb">8. dirb</h3>
+<h3 id="9-sqlmap">9. sqlmap</h3>
+<h3 id="10-binwalk">10. binwalk</h3>
+<h3 id="11-stegsolve">11. stegsolve</h3>
+
+<h2 id="7-free-application"><span style="color: red">7. !(Free) Application</span></h2>
+<h3 id="1-datagrip">1. DataGrip</h3>
+<h3 id="2-pycharm">2. pyCharm</h3>
+<h3 id="3-packet-tracer">3. Packet Tracer</h3>
+:ET

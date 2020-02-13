@@ -1,0 +1,19 @@
+I"§<h1 id="linux-post-installation-recommendation-software">Linux Post Installation Recommendation Software</h1>
+
+<h2 id="1">1.</h2>
+
+<h3 id="1-i3-gaps-and-configuration-window-manager">1. i3-gaps (and configuration) Window Manager</h3>
+
+<h3 id="2-neovim-and-configuration">2. neovim (and configuration)</h3>
+
+<h3 id="3-pyenv--python-environment">3. Pyenv ( Python Environment)</h3>
+
+<h3 id="4-rvm-ruby-version-manager">4. RVM (Ruby Version Manager)</h3>
+
+<h3 id="5-firefox-usually-come-with-installation-package">5. Firefox (usually come with installation package)</h3>
+
+<h3 id="6-tmux-and-tmuxinator">6. tmux and tmuxinator</h3>
+
+<h3 id="7-networkmanager">7. NetworkManager</h3>
+
+:ET
